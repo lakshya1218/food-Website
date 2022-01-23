@@ -475,6 +475,10 @@ color: #000;
   /* media queries  */
 
  @media(max-width:991px){
+     
+      *{
+    font-family: 'Patrick Hand', cursive;
+  }
 
     html{
       font-size: 65%;
